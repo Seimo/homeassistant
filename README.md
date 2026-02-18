@@ -1,1 +1,1 @@
-# homeassistant
+# Blueprints for Home Assistant
