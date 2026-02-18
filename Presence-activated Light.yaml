@@ -126,8 +126,8 @@ blueprint:
       name: Wait time night
       description:
         "Time to leave the light on after detecting the last movement in
-        night mode (default: 120 seconds)."
-      default: 120
+        night mode (default: 60 seconds)."
+      default: 60
       selector:
         number:
           min: 0.0
